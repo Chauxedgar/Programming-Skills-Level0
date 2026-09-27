@@ -1,0 +1,6 @@
+usr1,clave123
+usr2,clave456
+usr3,clave789
+usra,abc1
+usrb,def1
+usrc,ghi1
